@@ -29,7 +29,7 @@ This project seeks the best-performing explainable AI model for occupational hea
 <img src="https://github.com/Mattdozie/Prevention-of-Musculoskeletal-Symptoms-Using-Explainable-Artificial-Intelligence-/assets/100968289/3b5c80d0-07b0-4188-8379-c128382599b5" alt="image" width="400">
 
 
- [Dataset](#)
+ [Dataset](Explainable AI Project Main Report.pdf)
   
 6. **Model Selection and Implementation**: Model Selection and Implementation involved choosing machine learning algorithms suited for explainability and performance evaluation in occupational health and safety (OHS). Algorithms included Decision Trees (DT), Random Forest (RF), Gradient Boosting (GradBoost), LightGBM, CatBoost, XGBoost, and Artificial Neural Network (ANN). Hyperparameter tuning, dataset splitting, and algorithm-specific adjustments were applied to optimize model performance.
    
