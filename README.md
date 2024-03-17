@@ -51,4 +51,7 @@ The Project report can be viewed (<a href="Explainable AI Project Main Report.pd
 Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, LIME, SHAP 
 
 
-[Project Code](#)
+## Credit
+- Prof. Longzhi Yang
+- Dr. Martin Wonders
+- Northumbria University, Newcastle
