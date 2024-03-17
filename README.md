@@ -43,7 +43,7 @@ This project seeks the best-performing explainable AI model for occupational hea
 
 10. **Implementation and Adoption of Post-Hoc Explainable AI Techniques**: The study implemented four post-hoc explainable AI techniques: LIME, SHAP, ASV, and PI, to interpret predictions of the Gradient Boosting Regressor model. Techniques provided both local and global explanations, assessing feature importance and model performance. The comparison revealed PI's clearer feature importance, enhancing user understanding despite SHAP's simpler visualizations.
    
- [Report](#)
+ [Report]([#](https://github.com/Mattdozie/Prevention-of-Musculoskeletal-Symptoms-Using-Explainable-Artificial-Intelligence-/blob/main/Explainable%20AI%20Project%20Main%20Report.pdf)https://github.com/Mattdozie/Prevention-of-Musculoskeletal-Symptoms-Using-Explainable-Artificial-Intelligence-/blob/main/Explainable%20AI%20Project%20Main%20Report.pdf)
 
 
 ## Installation
