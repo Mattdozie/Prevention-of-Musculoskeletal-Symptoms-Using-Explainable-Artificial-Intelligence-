@@ -44,7 +44,7 @@ This project seeks the best-performing explainable AI model for occupational hea
 10. **Implementation and Adoption of Post-Hoc Explainable AI Techniques**: The study implemented four post-hoc explainable AI techniques: LIME, SHAP, ASV, and PI, to interpret predictions of the Gradient Boosting Regressor model. Techniques provided both local and global explanations, assessing feature importance and model performance. The comparison revealed PI's clearer feature importance, enhancing user understanding despite SHAP's simpler visualizations.
 
 
-The Project report can be viewed (<a href="Malaria Detection Deep Learning Models.pdf">HERE</a>)
+The Project report can be viewed (<a href="Explainable AI Project Main Report.pdf">HERE</a>)
 
 ## Installation
 Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, LIME, SHAP 
